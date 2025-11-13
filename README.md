@@ -3,6 +3,7 @@
 
 # SOAL
 <img width="884" height="490" alt="image" src="https://github.com/user-attachments/assets/340b6bb7-59b3-42c3-a03b-4801b9007ecf" />
+
 untuk menjawan soal ini saya telah menyelesaikan Latihan dan Tgas nya di bawah ini
 
 # LATIHAN
