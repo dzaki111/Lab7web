@@ -1,4 +1,8 @@
 # Lab7web
+#### Nama   = Dzaki Arif Rahman
+#### Kelas  = TI.24.A4 
+#### NIM    = 312410312 
+#### Matkul = Pemrograman Web 1
 
 
 # SOAL
