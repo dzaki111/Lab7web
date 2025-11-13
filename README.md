@@ -1,5 +1,6 @@
 # Lab7web
 
+#LATIHAN
 ## PHP Dasar 
 <img width="1149" height="576" alt="Screenshot 2025-11-13 211030" src="https://github.com/user-attachments/assets/00b73aef-2f4c-42bb-b13c-0e5f3902818b" />
 
@@ -30,3 +31,8 @@
 ## Perulangan dowhile 
 <img width="1115" height="686" alt="Screenshot 2025-11-13 214628" src="https://github.com/user-attachments/assets/4b214661-00e1-49e8-b610-ec82e4dc7e4c" />
 
+# TUGAS
+### CODENYA
+<img width="2464" height="3712" alt="code1" src="https://github.com/user-attachments/assets/fdd136c4-254e-418c-97c9-7b55910f4b12" />
+### OUTPUTNYA
+<img width="650" height="726" alt="image" src="https://github.com/user-attachments/assets/d28c438a-ce19-4f30-b005-2919354af6a5" />
