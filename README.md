@@ -1,5 +1,10 @@
 # Lab7web
 
+
+# SOAL
+<img width="884" height="490" alt="image" src="https://github.com/user-attachments/assets/340b6bb7-59b3-42c3-a03b-4801b9007ecf" />
+untuk menjawan soal ini saya telah menyelesaikan Latihan dan Tgas nya di bawah ini
+
 # LATIHAN
 ## PHP Dasar 
 PHP Dasar dimulai sebagai fondasi untuk server-side scripting, yang berarti kode dijalankan di sisi server sebelum hasilnya dikirimkan ke browser pengguna. Konsep paling fundamental adalah menggunakan tag <?php dan ?> untuk menandai blok kode PHP. Di dalam blok ini, perintah seperti echo digunakan untuk menampilkan output berupa teks, yang kemudian disisipkan ke dalam struktur HTML, seperti contohnya "Hello World" dalam praktikum saya ini.
