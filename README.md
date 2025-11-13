@@ -1,6 +1,6 @@
 # Lab7web
 
-#LATIHAN
+# LATIHAN
 ## PHP Dasar 
 <img width="1149" height="576" alt="Screenshot 2025-11-13 211030" src="https://github.com/user-attachments/assets/00b73aef-2f4c-42bb-b13c-0e5f3902818b" />
 
