@@ -34,5 +34,8 @@
 # TUGAS
 ### CODENYA
 <img width="2464" height="3712" alt="code1" src="https://github.com/user-attachments/assets/fdd136c4-254e-418c-97c9-7b55910f4b12" />
+
 ### OUTPUTNYA
 <img width="650" height="726" alt="image" src="https://github.com/user-attachments/assets/d28c438a-ce19-4f30-b005-2919354af6a5" />
+
+
