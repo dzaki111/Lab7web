@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>PHP Dasar</title>
+</head>
+<body>
+    <h1>Belajar PHP Dasar</h1>
+    <?php 
+
+$nama_hari = date("l"); 
+switch ($nama_hari) { 
+    case "Sunday": 
+        echo "Minggu"; 
+         break; 
+    case "Monday": 
+         echo "Senin"; 
+        break; 
+    default:
+        echo "Hari Kerja Lain"; 
+}
+?>
+</body>
+</html>
